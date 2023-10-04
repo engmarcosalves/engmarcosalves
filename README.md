@@ -1,7 +1,7 @@
 ### Olá!  Eu sou o Marcão Alves
 
-- 🔭 Back-end Java / Kotlin / Especialista em Microservices
-- 🌱 Arquitetura de Software
+- 🔭 Java/Koltin | Back-end | Microservices Specialist
+- 🌱 Software Architecture
 
 <!--
 ## Coding Activity
