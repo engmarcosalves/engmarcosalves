@@ -6,7 +6,7 @@
 
 ### Marcão's Coding Activity:
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=engmarcosalves&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs,prs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=engmarcosalves&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&layout=compact"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engmarcosalves&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engmarcosalves&layout=compact&theme=radical"/>
 </div>
