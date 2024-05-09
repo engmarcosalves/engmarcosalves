@@ -1,6 +1,6 @@
 ## Olá !  Meu nome é Marcão, tudo bom com você ?  Seja bem vindo (a) !
 
-- 🔭 Java/Koltin | Back-end | Microservices Specialist | Software Architecture
+- 🔭 Java/Koltin | Back-end | Microservices Specialist | Software Architect
 
 ### Marcão's Coding Activity:
 <div>
