@@ -3,5 +3,3 @@
 Seja bem vindo (a) !
 
 - 🔭 Java/Koltin | Back-end | Microservices Specialist | Software Architect
-
-### Marcão's Coding Activity:
